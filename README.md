@@ -19,7 +19,7 @@ The analysis pipeline produces a series of visualizations that summarize the pro
 | Figure 5: SHAP Analysis for Intermetallic (Im) Phase |
 | :---: |
 | <img src="figures/5_shap_beeswarm_Im.png" width="500"> |
-| *Detailed SHAP analysis for the 'Im' phase. High concentrations of Ta and Zr (red dots) strongly push the prediction towards 'Im', while high concentrations of Al and Cr (blue dots) push the prediction away from it.* |
+| *Detailed SHAP analysis for the 'Im' phase. High concentrations red dots strongly push the prediction towards 'Im', while high concentrations of blue dots push the prediction away from it.* |
 
 ---
 
